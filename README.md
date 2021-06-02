@@ -1,2 +1,2 @@
 # Housing Prices
-EDA/ Model for Data of Housing Prices
+EDA for Data of Housing Prices and Modeling
