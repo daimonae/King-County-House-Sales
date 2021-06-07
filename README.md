@@ -1,4 +1,4 @@
-# Housing Prices
+# King County House Sales
 EDA for Data of Housing Prices and Modeling
 There are 3 Jupyter Notebooks 
 1. Cleaning and EDA
