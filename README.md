@@ -5,5 +5,5 @@ There are 3 Jupyter Notebooks
 2. Visualization
 3. Modeling
 
-A high level presentation of the project was uploaded as pdf 'The Housing Project'
+A high level presentation of the project was uploaded as pdf 'King County House Sales'
 
